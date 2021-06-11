@@ -271,9 +271,9 @@ footer {
         padding-bottom: 0;
     }
     /*removes headers logo*/
-    header img {
+   /* header img {
         display: none;
-    }
+    } */
 
     .mission {
         width: 95%;
@@ -291,6 +291,9 @@ footer {
 
     .featured_tea {
         padding-top: 46px;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
     }
 
     .featured_tea h4 {
