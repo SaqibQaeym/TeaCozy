@@ -238,7 +238,7 @@ footer {
     .figure-container {
         display: flex;
         flex-direction: column;
-        justify-content: center;
+        align-content: center;
     }
 
     .featured_tea {
@@ -286,7 +286,7 @@ footer {
     .figure-container {
         display: flex;
         flex-direction: column;
-        justify-content: center;
+        align-content: center;
     }
 
     .featured_tea {
@@ -339,7 +339,7 @@ footer {
     .figure-container {
         display: flex;
         flex-direction: column;
-        justify-content: center;
+        align-content: center;
     }
 
     .featured_tea {
