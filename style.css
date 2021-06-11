@@ -235,6 +235,12 @@ footer {
         max-height: 500px;
     }
 
+    .figure-container {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+    }
+
     .featured_tea {
         width: 100%;
         padding-top: 14.17%;
@@ -275,6 +281,12 @@ footer {
 
     .mission h4 {
         font-size: 0.85rem;
+    }
+
+    .figure-container {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
     }
 
     .featured_tea {
@@ -322,6 +334,12 @@ footer {
     
     header a{
         margin: 5px;
+    }
+
+    .figure-container {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
     }
 
     .featured_tea {
